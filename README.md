@@ -1,4 +1,4 @@
-# aws-secrets
+# pull aws-secrets enviornment specific
 
 1. Create simple spring boot project with maven
 2. Add depedancy for aws secrete manager
