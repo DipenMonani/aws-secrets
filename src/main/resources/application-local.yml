@@ -1,0 +1,9 @@
+spring:
+  config:
+    import: aws-secretsmanager:local/aws/secretmanager
+
+
+secreteManagerName: "FROM LOCAL"
+api-key1: "I am from Local KEY 1"
+api-key2: "I am from Local API KEY 2"
+api-key3: "I am from Local API KEY 3"

@@ -1,0 +1,10 @@
+spring:
+#  config:
+#    import: aws-secretsmanager:test/secretmanager
+  profiles:
+    active: aws
+
+#secreteManagerName: asaisfdsasd
+#api-key1: asaisfdsasd
+#api-key2: awssdsdhsh
+api-key3: "qwertyuio"

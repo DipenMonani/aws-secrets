@@ -1,0 +1,9 @@
+spring:
+  config:
+    import: aws-secretsmanager:test/secretmanager
+
+
+secreteManagerName: "FROM AWS"
+api-key1: "I am from AWS test screte API KEY 1 But Loded from local"
+api-key2: "I am from AWS test screte API KEY 2 But Loded from local"
+api-key3: "I am from AWS test screte API KEY 3 But Loded from local"
